@@ -1,3 +1,7 @@
+// 
+// Public Link - https://repl.it/@Meagher01/Karvonen-Heart-Rate-Calculator#main.cpp
+// Invite Link - https://repl.it/join/ahwsehgq-meagher01
+//
 #include <iostream>
 using namespace std;
 
